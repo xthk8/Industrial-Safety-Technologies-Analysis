@@ -1,0 +1,5 @@
+(port+harbor+terminal+control^tower+control^center)*(digital+connect+link+navigat+wifi+IoT)*(sail+voyag+cruis)*(traffic+transport+transfer+convey+logistics)*(cargo+freight+container+ship+vessels)
+
+스마트*(산업+안전+보건)*(설비+건설+제조)*(디지털+머신러닝+딥러닝+IoT+AI+신경망+디지털)*기술
+
+((스마트+산업)*(안전+보건)*(설비+건설+제조)*(디지털+머신러닝+딥러닝+IoT+AI+신경망+디지털)*기술)
